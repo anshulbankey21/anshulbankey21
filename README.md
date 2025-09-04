@@ -37,11 +37,11 @@
 ### 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitbankey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshulbankey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbankey&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulbankey&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbankey&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshulbankey&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitbankey/amitbankey/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/anshulbankey/anshulbankey/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
