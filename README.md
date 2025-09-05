@@ -58,9 +58,9 @@
 
 - 💻 **GitHub**: [anshulbankey21](https://github.com/anshulbankey21)  
 - 💼 **LinkedIn**: [Anshul Bankey](https://www.linkedin.com/in/anshul-bankey/)  
-- 📊 **Tableau**: [Public Portfolio](https://public.tableau.com/app/profile/anshulbankey/vizzes)  
-- 🏆 **HackerRank**: [Profile](https://www.hackerrank.com/profile/gurjarswag21) 
-- 🔥 **LeetCode**: [Profile](https://leetcode.com/u/anshulbankey/)   
+- 📊 **Tableau**: [Anshul Bankey](https://public.tableau.com/app/profile/anshulbankey/vizzes)  
+- 🏆 **HackerRank**: [gurjaranshul24](https://www.hackerrank.com/profile/gurjarswag21) 
+- 🔥 **LeetCode**: [anshul bankey](https://leetcode.com/u/anshulbankey/)   
 - 🌐 **HackerEarth**: (📧 gurjaranshul24@gmail.com)  
 
 ---
